@@ -1,4 +1,4 @@
-package com.playground;
+package com.playground.fp;
 
 import java.util.function.Function;
 
